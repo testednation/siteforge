@@ -1,0 +1,8 @@
+{
+  "name": "Lattice — Visual Site Builder",
+  "description": "Visual site builder for rebuilding existing websites from URLs or uploaded files, editing visually, exporting clean framework code, and deploying to popular hosting platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
